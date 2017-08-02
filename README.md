@@ -31,3 +31,12 @@ Right click on the task tray icon, the following is possible.
 タスクトレイのアイコンを右クリックすると、下記が可能です。  
   - Show battery information：バッテリーの情報を表示します。  
   - Exit：アプリケーションを終了します。  
+
+- - -
+## ScreenShots
+
+![Screenshot](https://github.com/t-miyake/ItawariBattery/blob/master/Screenshots/Notify.png)   
+
+![Screenshot](https://github.com/t-miyake/ItawariBattery/blob/master/Screenshots/BatteryInfo.png)  
+  
+![Screenshot](https://github.com/t-miyake/ItawariBattery/blob/master/Screenshots/TasktrayIcon.png)  
