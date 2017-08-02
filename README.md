@@ -7,7 +7,7 @@ You can download from the [release page](https://github.com/t-miyake/ItawariBatt
 
 
 ## Overview
-This application will notify you when the battery charge reaches 80%.
+This application will notify you when the battery charge reaches 80%.  
 The purpose is to prevent 100% charge of the battery to suppress deterioration of the battery.
 
 
@@ -22,7 +22,7 @@ Right click on the task tray icon, the following is possible.
 - - -
 
 ## 概要
-このアプリケーションは、バッテリーの充電が80%になったら、その旨を通知します。
+このアプリケーションは、バッテリーの充電が80%になったら、その旨を通知します。  
 バッテリーの劣化を抑制するため、バッテリーを100%充電しないようにすることが目的です。
 
 ## 使い方
